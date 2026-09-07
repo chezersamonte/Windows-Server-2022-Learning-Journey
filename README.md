@@ -1,6 +1,6 @@
 # 🖥️ Windows Server 2022 Administration and Support
 
-Welcome to my **Windows Server 2022 Administration Learning Journey**.
+Welcome to my **Windows Server 2022 Learning Journey**.
 
 This repository documents my hands-on learning and lab projects as I build and strengthen my skills in **Windows Server Administration, Active Directory, Group Policy, DNS, DHCP, PowerShell, security, troubleshooting, and remote administration**.
 
