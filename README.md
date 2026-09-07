@@ -1,4 +1,4 @@
-# 🖥️ Windows Server Administration & IT Support
+# 🖥️ Windows Server 2022 Administration & IT Support
 
 Welcome to my **Windows Server Administration & IT Support Learning Journey**.
 
