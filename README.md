@@ -232,33 +232,6 @@ A final hands-on project bringing together the concepts and skills learned throu
 
 ---
 
-# 📈 Progress
-
-| Part | Topic                                   | Status         |
-| ---- | --------------------------------------- | -------------- |
-| 01   | Installing Windows Server               | 🔄 In Progress |
-| 02   | Server Manager & Basic Configuration    | ⏳ Coming Soon  |
-| 03   | Active Directory Domain Services        | ⏳ Coming Soon  |
-| 04   | Users & Organizational Units            | ⏳ Coming Soon  |
-| 05   | Security Groups & Group Membership      | ⏳ Coming Soon  |
-| 06   | Group Policy (GPO)                      | ⏳ Coming Soon  |
-| 07   | DNS                                     | ⏳ Coming Soon  |
-| 08   | DHCP                                    | ⏳ Coming Soon  |
-| 09   | File & Folder Sharing                   | ⏳ Coming Soon  |
-| 10   | NTFS & Share Permissions                | ⏳ Coming Soon  |
-| 11   | Windows Server Security                 | ⏳ Coming Soon  |
-| 12   | PowerShell for System Administration    | ⏳ Coming Soon  |
-| 13   | User Management with PowerShell         | ⏳ Coming Soon  |
-| 14   | Computer Management & Troubleshooting   | ⏳ Coming Soon  |
-| 15   | Remote Administration                   | ⏳ Coming Soon  |
-| 16   | Windows Server Backup & Recovery        | ⏳ Coming Soon  |
-| 17   | Monitoring & Event Viewer               | ⏳ Coming Soon  |
-| 18   | Server Roles & Features                 | ⏳ Coming Soon  |
-| 19   | Advanced Windows Server Administration  | ⏳ Coming Soon  |
-| 20   | Final Windows Server Administration Lab | ⏳ Coming Soon  |
-
----
-
 # 📂 Repository Structure
 
 The repository will gradually be organized as follows:
@@ -289,11 +262,11 @@ Additional screenshots, PowerShell scripts, configurations, and lab documentatio
 
 # 💡 Why I'm Building This Lab
 
-I'm building this project to move beyond theoretical knowledge and gain **hands-on experience with Windows Server administration**.
+I'm building this project to go beyond theoretical knowledge and develop **practical, hands-on IT skills** through a Windows Server lab environment.
 
-Each part of this journey represents a practical lab where I configure, test, troubleshoot, and document different Windows Server technologies.
+Each part of this journey allows me to **configure, test, troubleshoot, and document** different technologies and scenarios that are relevant to **IT Support, Help Desk, Service Desk, and Windows System Administration**.
 
-This repository also serves as a **public portfolio of my continuous learning and practical IT skills**.
+This repository serves as a **public portfolio of my continuous learning and practical experience**, while helping me build the technical foundation I need to grow from **IT Support toward my long-term goal of becoming a Windows System Administrator**.
 
 ---
 
@@ -315,11 +288,11 @@ The repository will be updated progressively as each part of the learning journe
 
 ## 👨‍💻 About Me
 
-I'm an IT Support professional building my skills toward **Windows System Administration**.
+I'm an **IT Support professional** with a strong interest in **Help Desk, Service Desk, and Windows System Administration**.
 
-I'm passionate about hands-on learning, troubleshooting, infrastructure, and continuously developing my technical skills.
+I'm passionate about **hands-on learning, troubleshooting, technical support, networking, and system administration**, and I continuously work on developing my technical skills through practical labs and real-world scenarios.
 
-This repository is part of my **Learning in Public** journey.
+This repository is part of my **Learning in Public** journey, where I document what I learn, build, troubleshoot, and improve as I work toward my long-term goal of becoming a **Windows System Administrator**.
 
 ---
 
