@@ -53,7 +53,11 @@ I will gradually add each completed part to this repository along with **PDF doc
 
 ### Part 1 — Installing Windows Server
 
-📄 **Status:** 🔄 In Progress
+📄 **Status:** ✅ Completed
+
+Installation of **Windows Server 2022** in the virtual lab environment, including the initial installation and setup process.
+
+📄 **[View Part 1 — Windows Server 2022 Installation](https://github.com/chezersamonte/Windows-Server-2022-Learning-Journey/blob/main/pdf%20files/1.%20Windows%20Server%202022%20Installation.pdf)**
 
 Installing Windows Server in the virtual lab environment and completing the initial installation and configuration.
 
