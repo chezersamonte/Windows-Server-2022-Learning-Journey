@@ -1,10 +1,12 @@
-# 🖥️ Windows Server 2022 Administration and Support
+# 🖥️ Windows Server Administration & IT Support
 
-Welcome to my **Windows Server 2022 Learning Journey**.
+Welcome to my **Windows Server Administration & IT Support Learning Journey**.
 
-This repository documents my hands-on learning and lab projects as I build and strengthen my skills in **Windows Server Administration, Active Directory, Group Policy, DNS, DHCP, PowerShell, security, troubleshooting, and remote administration**.
+This repository documents my hands-on learning, practical labs, and technical projects as I continue developing my skills in **IT Support, Help Desk and Service Desk operations, troubleshooting, hardware and software support, networking, Windows administration, user account management, and technical problem-solving**.
 
-My goal is to develop practical skills that can be applied to real-world **IT Support and Windows System Administration** environments.
+My goal is to strengthen my practical IT skills and apply them in real-world **IT Support, Help Desk, and Service Desk environments**, while building a strong foundation in **Windows Server administration and infrastructure management**.
+
+This learning journey represents my long-term career path from **IT Support → System Administration**, with a focus on continuously developing my technical knowledge, troubleshooting abilities, and hands-on administrative skills.
 
 ---
 
